@@ -10,7 +10,7 @@ The caesar cipher is a simple yet effective way of encrypting a text to render i
 
 ### The Columnar Transposition Cipher
 
-The transposition cipher is another way of encrypting a text in a more secure way (than the caesar cipher) of encrypting a text so that it is unreadable to anyone who doesn’t possess the key to decryption. It relies on scrambling the words in plaintext by rearranging its characters. While transposition ciphers come in various forms, each contributing a unique layer of complexity, in this project, I implement the columnar transposition cipher by creating a **TranspositionCipher class**.
+The transposition cipher is another way of encrypting a text in a more secure way than the caesar cipher and also makes a text unreadable to anyone who doesn’t possess the key to decryption. It relies on scrambling the words in plaintext by rearranging its characters. While transposition ciphers come in various forms, each contributing a unique layer of complexity, in this project, I implement the columnar transposition cipher by creating a **TranspositionCipher class**.
 
 In this [Jupyter Notebook](URL), you will learn how I implemented both ciphers by creating:
 
