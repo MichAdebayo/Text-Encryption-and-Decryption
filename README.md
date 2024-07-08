@@ -2,7 +2,7 @@
 
 ## Case Description
 
-Cryptography is a critical problem in programming that has engaged researchers for many decades. With better encryption methods, we can better protect sensitive information—such as passwords and personal data—and ensure secure online communication. Exploring such methods as the caesar cipher and the transposition cipher is an essential step towards contributing to the ongoing efforts to maintain data integrity and confidentiality.
+Cryptography is a critical problem in programming that has engaged researchers for many decades. With better encryption methods, we can better protect sensitive information—such as passwords and personal data—and ensure secure online communication. Therefore, exploring such methods as the caesar cipher and the transposition cipher would contribute towards effort to maintain data integrity and confidentiality.
 
 ### The Caesar Cipher
 
@@ -10,12 +10,23 @@ The caesar cipher is a simple yet effective way of encrypting a text to render i
 
 ### The Columnar Transposition Cipher
 
-The transposition cipher is another way of encrypting a text in a more secure way (than the caesar cipher) that becomes unreadable to anyone who doesn’t possess the key to decryption. It relies on scrambling the words in plaintext by rearranging its characters. While transposition ciphers come in various forms, each contributing a unique layer of complexity, in this project, I implement the columnar transposition cipher by creating a **TranspositionCipher class**.
+The transposition cipher is another way of encrypting a text in a more secure way (than the caesar cipher) of encrypting a text so that it is unreadable to anyone who doesn’t possess the key to decryption. It relies on scrambling the words in plaintext by rearranging its characters. While transposition ciphers come in various forms, each contributing a unique layer of complexity, in this project, I implement the columnar transposition cipher by creating a **TranspositionCipher class**.
 
-For both ciphers, the following were implemented: 
+In this [Jupyter Notebook](URL), you will learn how I implemented both ciphers by creating:
 
-* A constructor function that accepts the cipher's key as an argument.
+* A **constructor function** that accepts the cipher's key as an argument.
   
-* A method designated for encrypting a message requiring a single parameter—the plaintext message to be encrypted.
+* A **method** designated for encrypting a message requiring a single parameter—the plaintext message to be encrypted.
   
-* A method dedicated to decrypting a message that calls for one argument—the previously encrypted message in ciphertext format.
+* A **method** dedicated to decrypting a message that calls for one argument—the previously encrypted message in ciphertext format.
+
+* Example texts to test whether both ciphers work accurately.
+
+## Testing the Caesar Cipher
+
+The following string was passed as text: "The United Kingdom publishes first guidelines for human embryo models grown from stem cells."
+
+
+## Testing the Columnar Transposition Cipher
+
+The following string was passed as text: "The United Kingdom publishes first guidelines for human embryo models grown from stem cells."
