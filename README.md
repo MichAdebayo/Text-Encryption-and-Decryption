@@ -2,7 +2,7 @@
 
 ## Case Description
 
-Cryptography is a critical problem in programming that has engaged researchers for many decades. With better encryption methods, we can better protect sensitive information—such as passwords and personal data—and ensure secure online communication. Therefore, exploring such methods as the caesar cipher and the transposition cipher would contribute towards effort to maintain data integrity and confidentiality.
+Cryptography is a critical problem in programming that has engaged researchers for many decades. With better encryption methods, we can better protect sensitive information—such as passwords and personal data—and ensure secure online communication. Therefore, exploring such methods as the caesar cipher and the transposition cipher would contribute towards effort to maintaining data integrity and confidentiality.
 
 ### The Caesar Cipher
 
