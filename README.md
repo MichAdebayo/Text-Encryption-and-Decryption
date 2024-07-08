@@ -6,12 +6,16 @@ Cryptography is a critical problem in programming that has engaged researchers f
 
 ### The Caesar Cipher
 
-The caesar cipher is a simple yet effective way of encrypting a text to render it unreadable to anyone without the key to decrypting/decoding the text. It relies on substituting texts by shifting each letter in the text by a fixed number of places down or up the alphabet.
+The caesar cipher is a simple yet effective way of encrypting a text to render it unreadable to anyone without the key to decrypting/decoding the text. It relies on substituting texts by shifting each letter in the text by a fixed number of places down or up the alphabet. In this project, I implement the caesar cipher by creating a **CaesarCipher class**.
 
-## The Columnar Transposition Cipher
+### The Columnar Transposition Cipher
 
-The transposition cipher is another way of encrypting a text in a more secure way (than the caesar cipher) that becomes unreadable to anyone who doesn’t possess the key to decryption. It relies on scrambling the words in plaintext by rearranging its characters.
+The transposition cipher is another way of encrypting a text in a more secure way (than the caesar cipher) that becomes unreadable to anyone who doesn’t possess the key to decryption. It relies on scrambling the words in plaintext by rearranging its characters. While transposition ciphers come in various forms, each contributing a unique layer of complexity, in this project, I implement the columnar transposition cipher by creating a **TranspositionCipher class**.
 
-Transposition ciphers come in various forms, each contributing a unique layer of complexity. Among these variants, the columnar transposition cipher stands as a foundational pillar, offering an accessible entry point for understanding the core concepts of this encryption methodology involving Python cryptography.
+For both ciphers, the following were implemented: 
 
-The Encryption and Decryption in Python project requires you to implement a TranspositionCipher class
+* A constructor function that accepts the cipher's key as an argument.
+  
+* A method designated for encrypting a message requiring a single parameter—the plaintext message to be encrypted.
+  
+* A method dedicated to decrypting a message that calls for one argument—the previously encrypted message in ciphertext format.
