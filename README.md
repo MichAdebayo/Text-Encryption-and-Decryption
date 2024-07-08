@@ -30,3 +30,8 @@ The following string was passed as text: "The United Kingdom publishes first gui
 ## Testing the Columnar Transposition Cipher
 
 The following string was passed as text: "The United Kingdom publishes first guidelines for human embryo models grown from stem cells."
+
+## Relevant Links
+
+* [Jupyter Notebook]()
+* [LinkedIn](https://www.linkedin.com/in/adebayomichael/)
