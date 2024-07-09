@@ -26,10 +26,17 @@ In this [Jupyter Notebook](https://nbviewer.org/github/MichAdebayo/Text-Encrypti
 
 The following string was passed as text: "The United Kingdom publishes first guidelines for human embryo models grown from stem cells."
 
+<div align="center">
+<img width="1143" alt="Screenshot 2024-07-09 at 14 56 52" src="https://github.com/MichAdebayo/Text-Encryption-and-Decryption/assets/92400436/90e4cdce-46a7-434b-805a-92d0315fbfd0">
+</div>
 
 ## Testing the Columnar Transposition Cipher
 
 The following string was passed as text: "The United Kingdom publishes first guidelines for human embryo models grown from stem cells."
+
+<div align="center">
+<img width="1146" alt="Screenshot 2024-07-09 at 14 57 48" src="https://github.com/MichAdebayo/Text-Encryption-and-Decryption/assets/92400436/63c73c09-1c9f-45a3-8480-7118d11d039f">
+</div>
 
 ## Relevant Links
 
