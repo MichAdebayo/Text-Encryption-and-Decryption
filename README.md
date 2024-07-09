@@ -12,7 +12,7 @@ The caesar cipher is a simple yet effective way of encrypting a text to render i
 
 The transposition cipher is another way of encrypting a text in a more secure way than the caesar cipher and also makes a text unreadable to anyone who doesn’t possess the key to decryption. It relies on scrambling the words in plaintext by rearranging its characters. While transposition ciphers come in various forms, each contributing a unique layer of complexity, in this project, I implement the columnar transposition cipher by creating a **TranspositionCipher class**.
 
-In this [Jupyter Notebook](URL), you will learn how I implemented both ciphers by creating:
+In this [Jupyter Notebook](https://nbviewer.org/github/MichAdebayo/Text-Encryption-and-Decryption/blob/main/Encryption%20and%20Decryption%20in%20Python%20Project.ipynb), you will learn how I implemented both ciphers by creating:
 
 * A **constructor function** that accepts the cipher's key as an argument.
   
@@ -33,5 +33,5 @@ The following string was passed as text: "The United Kingdom publishes first gui
 
 ## Relevant Links
 
-* [Jupyter Notebook]()
+* [Jupyter Notebook](https://nbviewer.org/github/MichAdebayo/Text-Encryption-and-Decryption/blob/main/Encryption%20and%20Decryption%20in%20Python%20Project.ipynb)
 * [LinkedIn](https://www.linkedin.com/in/adebayomichael/)
